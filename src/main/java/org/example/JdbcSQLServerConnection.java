@@ -15,9 +15,6 @@ public class JdbcSQLServerConnection {
     private static Connection conn;
 
     public static void main(String[] args) throws SQLException {
-        JdbcSQLServerConnection jdbcSQLServerConnection = new JdbcSQLServerConnection();
-
-
 
         try {
 
